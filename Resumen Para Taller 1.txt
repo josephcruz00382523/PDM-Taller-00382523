@@ -1,0 +1,18 @@
+Resumen:
+El sistema operativo Android fue desarrollado inicialmente en 2003 por Android Inc., pero su crecimiento comenzó cuando fue adquirido por Google en 2005, lo que permitió su expansión como plataforma móvil.
+
+Android está basado en el kernel de Linux y se distribuye como software de código abierto, lo que permitió que múltiples fabricantes lo adoptaran sin costo y lo adaptaran a sus dispositivos.
+
+El primer dispositivo comercial con Android fue el HTC Dream, lanzado en 2008, marcando el inicio de su presencia en el mercado de smartphones.
+
+
+Una de las estrategias más importantes de Android fue su modelo gratuito para fabricantes, lo que permitió competir con otros sistemas operativos y expandirse rápidamente a nivel global.
+
+
+Sin embargo, este mismo modelo provocó que existieran múltiples versiones del sistema en diferentes dispositivos, fenómeno conocido como fragmentación.
+
+[1] J. Callaham, The history of Android: The evolution of the biggest mobile OS, 2024.
+
+[2] Google, Android Open Source Project Overview, 2025.
+
+[3] Android Central, The evolution of Android: Decades of transformation, 2023.
